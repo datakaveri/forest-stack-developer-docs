@@ -15,7 +15,7 @@ The Grievance Management module leverages **osTicket**, an open-source ticketing
 
 ### Raising a Grievance
 
-1. Scroll down to the footer of the Telangana Data Exchange portal.
+1. Scroll down to the footer of the Rajasthan Data Exchange portal.
 
 ![fig94](./img/fig94.png)
 
@@ -32,7 +32,7 @@ The Grievance Management module leverages **osTicket**, an open-source ticketing
 1. Click the **Open a New Ticket** button.
 
 ![Open a New Ticket Button](./img/fig95.png)
-
+Clicking on Open a New Ticket
 
 2. **Help Topic**: Choose from categories such as:
     - Feedback
@@ -90,4 +90,4 @@ On the ticket status page, you’ll find:
 For unresolved issues, users may:
 
 - Submit a formal complaint via the **Grievance Redressal form**.
-- Contact: **support-tgdex-itc@telangana.gov.in**
+- Contact: **support-Forest Stack-itc@Rajasthan .gov.in**

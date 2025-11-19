@@ -54,7 +54,7 @@ const config = {
         title: '',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/TGDeX.png',
+          src: 'img/Forest_Stack.png',
           href: 'https://tgdex.telangana.gov.in/',
           target: '_blank',
         },

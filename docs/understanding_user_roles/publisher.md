@@ -1,27 +1,28 @@
 ---
-title: "Publisher / Publisher with Compute"
+title: "Publisher"
 sidebar_position: 3
 ---
 
-# Publisher / Publisher with Compute
+# Publisher
 
 ---
 
 ## Additional Access and Permissions
 
 Publishers can:
-- Contribute assets to the platform, including Data Banks, AI Models, and Potential Applications
-- (Publishers with Compute) Access training and testing models using GPU resources in the Sandbox IDE
-
+- Publishers can contribute assets to the platform, including Datasets, Models , and Use cases.
 ---
 
 ## Additional Publisher-specific Screens
 
-- Upload new assets (Data bank/AI Models/Use cases) on platform
-- Manage uploaded assets 
+- Option to upload new assets (Datasets/Models /Use cases) on platform.
+- Manage uploaded assets.
 
-![fig85](./img/fig85.png)
+![fig85](./img/fig86.png)
+Manage Assets Section
+
 
 - Approve requests from users to download your assets
 
-![fig86](./img/fig86.png)
+![fig86](./img/fig85.png)
+Asset Requests section

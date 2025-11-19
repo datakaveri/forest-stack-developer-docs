@@ -9,12 +9,12 @@ sidebar_position: 5
 
 ## Steps to Upgrade Your Role
 
-1. **Start as a Consumer** (default role)
-   - Complete eKYC verification to become eligible for advanced roles
-   - Join an existing organisation or request to register a new organisation (if not listed)
+1. Users start as Consumers by default. To upgrade their role:
+   - Users need to join an existing organisation or request to register a new organisation (if not listed). This is a mandatory requirement to become a publisher.
 2. **Request Role Upgrade**
    - After completing the above, request a role upgrade from your profile section
 3. **Approval**
-   - Upon approval, you may be assigned the role of Consumer with Compute, Publisher, or Publisher with Compute, based on the designation and authorisation provided by the organization manager or TGDeX administrators.
+   - Upon approval, they may be assigned the role of Publisher based on the approval provided:
 
    ![fig91](./img/fig91.png)
+   Role Upgradation Screen

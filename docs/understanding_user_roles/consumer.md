@@ -1,21 +1,17 @@
 ---
-title: "Consumer / Consumer with Compute"
+title: "Consumer"
 sidebar_position: 2
 ---
 
-# Consumer / Consumer with Compute
+# Consumer
 
 ---
 
 ## Access and Permissions
 
 Consumers can:
-- Browse and search Data Banks, AI Models, and Potential Applications
-- View asset details
-- Download open assets
-- Request access to restricted assets
-- Create and run notebooks for exploratory data analysis and building basic models
-- (Consumers with compute) Request GPU-hour credits for advanced model training
+- Browse and search Datasets, Models , and Use cases.
+- They can view asset details, query and download open assets and request access to restricted assets.
 
 ---
 
@@ -24,11 +20,9 @@ Consumers can:
 - View your personal dashboard
 
 ![fig82](./img/fig82.png)
+Consumer Dashboard
 
 - View/download activity history
 
-![fig82](./img/fig83.png)
-
-- View/Resume past projects
-
-![fig84](./img/fig84.png)
+![fig83](./img/fig83.png)
+My Activities

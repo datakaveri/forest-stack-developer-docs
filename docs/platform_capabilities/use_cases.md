@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Use cases
 
-Use cases are real-world problem statements paired with possible AI-based solutions. Some include working examples built using TGDeX resources, while others are open challenges shared to inspire new ideas and innovations.
+Use cases are real-world problem statements paired with possible AI-based solutions. Some include working examples built using Forest Stack resources, while others are open challenges shared to inspire new ideas and innovations.
 
 ---
 
@@ -19,18 +19,13 @@ The Use cases listing page provides users with access to a curated collection of
   - **Industry**: Narrow results based on specific sectors (e.g., Agriculture, Health, IT)
   - **Last Updated**: Apply filters to see applications recently added or modified.
     ![Use case filter options](./img/fig_use_case_filter_options.png)
-- **Sort Feature**: To the right of the search bar is a sort menu that reorders the cards based on:
-  - **A–Z / Z–A**: Alphabetical by use case name
-  - **Old to New/New to Old**: Arranges use cases in ascending/descending order of upload dates
-  - **Latest Addition**: Most recently published use case first
-  ![Use case Sort Options](./img/fig_use_cases_sort_options.png)
 - **Use case Cards**: Each card displays:
   - Title
-  - Publishing Organization
+  - Publishing Data Provider Entity
   - Short Description
   - Tags
   - Last Updated date
-  - "View Potential Application" button to explore full details
+  - "View Use case" button to explore full details
 
 ![Use Case Cards](./img/fig_use_case_cards.png)
 
@@ -40,14 +35,14 @@ The Use cases listing page provides users with access to a curated collection of
 
 The Use cases Detail Page provides an in-depth view of a specific AI-driven solution or idea. It is designed to help users understand the problem being addressed, the AI approach used, and the practical impact the application can have. In some cases, it may also present an open problem statement—offering inspiration for users to explore and develop new AI-based solutions using available Data Banks and AI Models on the platform.
 
-- **Title & Publisher**: Displays the name of the Use case and the department or organisation that published it.
+- **Title & Publisher**: Displays the name of the Use case and the department or Data Provider Entity that published it.
 - **Tags**: Keywords related to the particular use case to increase discoverability.
 - **Description**:
   - The description section of a Use case gives a simple and clear explanation of the real-world problem it aims to solve and how AI helps in addressing it. It also explains how and where the solution can be applied—for example, in health centres, government services, or agriculture.
   - It includes details on the data used, AI models leveraged and how the solution is deployed, like through a mobile app or tablet used by field workers.
   - Finally, the section highlights the benefits the application offers.
 
-- **Associated Data Banks and AI Models**: Option/link to view the associated data banks or pre-trained AI models leveraged for solving the focused problem
+- **Associated Data Banks and AI Models**: Option/link to view the associated data sets or pre-trained AI models leveraged for solving the focused problem.
 
 ![Use case detail page](./img/fig_use_case_detail_page.png)
 
@@ -58,25 +53,29 @@ The Use cases Detail Page provides an in-depth view of a specific AI-driven solu
 ### Step 1: Enter Potential Application Information
 Click on **Start Adding Use Case** and start entering use case information - In this step, users provide a complete overview of the use case, including:
 - **Title**: A clear and concise name for the application
-- **Short Description**: A brief summary describing the nature of the problem or use case and what the application aims to achieve
+- **Short Description**: A brief summary describing the nature of the problem or use case and what the application aims to achieve.
 - **Tags**: Keywords related to the domain, solution, or technologies involved.
-- **Long Description**: The long description should provide a clear and detailed explanation of the application. It should describe the specific problem being addressed and explain how AI or data can help solve it. It should also mention the relevant domain or department the solution applies to. Additionally, the description should include the type of data or AI model used in the solution.
+- **Long Description**: The long description should provide a clear and detailed explanation of the application. It should describe the specific problem being addressed and explain how AI or data can help solve it. It should also mention the relevant domain or department the solution applies to. Additionally, the description should include the type of data or model used in the solution.
 - **Organisation Type**: Select whether the contributor is from a public, private, academic, NGO/non-profit or other type of organisation.
 - **Industry**: Sector classification of the problem being solved
-- **Add Associated Assets**: Link relevant data banks/AI models already published on TGDeX that were utilized or can be utilized to solve the problem
+- **Add Associated Assets**: Link relevant data sets/Models already published on Forest Stack that were utilized or can be utilized to solve the problem
 
 ![Clicking on Start adding use case](./img/fig_clicking_on_start_adding_use_case.png)
 
-
 ![Figure](./img/fig74.png)
+Clicking on Start adding use case
 
+
+![Use Case upload form](./img/use_case_upload_form.png)
+
+
+![Description](./img/fig_description.png)
+Use Case upload form
 
 ### Step 2: Review and Publish
 - This final step provides a preview of the complete submission. Users should review all fields including title, descriptions, tags, and associated assets.
 - Make any necessary edits before finalising.
 - Click Publish to submit the Use case.
-
-<!-- ![Potential Application Upload Step 2](./img/potential_application_upload2.png) -->
 
 ### Step 3: Approval
 Approval requests are sent to the Organisation Manager for review. Once they approve, the Use case gets published on the Use cases listing page.

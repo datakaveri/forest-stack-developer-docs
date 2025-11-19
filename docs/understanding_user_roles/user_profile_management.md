@@ -7,14 +7,9 @@ sidebar_position: 6
 
 ---
 
-The **My Profile** section allows users to manage their personal information, account settings, and platform consents. This screen helps users stay in control of their TGDeX identity and preferences. Key sections include:
+The **My Profile** section allows users to manage their personal information, account settings, and platform consents. This screen helps users stay in control of their Forest Stack identity and preferences. Key sections include:
 
-## eKYC Status
-- View your current role (e.g., Consumer) and eKYC status
-- Complete eKYC verification using the "Complete Your eKYC" link
-- Once verified, option to delete or update your eKYC record
-
-## User Details
+### <u>User Details</u>
 - Displays basic profile information:
   - Full Name
   - Username
@@ -22,21 +17,22 @@ The **My Profile** section allows users to manage their personal information, ac
   - Phone Number
 - Edit these fields by clicking **Edit Profile** (top right) and save with **Save Changes**
 
-## Socials
+### <u>Socials</u>
 - Link your social media or professional accounts (Twitter, LinkedIn, GitHub)
-- These fields are optional and can help enhance profile visibility, especially for contributors
+- These fields are optional and can help enhance profile visibility, especially for contributors.
 
-## Account Settings
-- Manage API Key creation for integrating TGDeX programmatically
+### <u>Account Settings</u>
+- Manage API Key creation for integrating Forest Stack programmatically
 - Change Password for account security
-- Delete Account to permanently remove your user account
-  - Publishers/Organization Managers: Option to transfer ownership of uploaded assets before deleting account
+- Delete Account to permanently remove the user from Forest Stack.
+  - Publisher with compute/organization manager, users have an option to transfer ownership of their uploaded assets before deleting their account.
 
-## Consent Management
+### <u>Consent Management</u>
 - Tracks user agreements for:
   - **Privacy Policy Consent**: View or revoke consent for personal data processing
   - **Terms of Service Consent**: View or revoke agreement to the platform's terms
 
-> Users should regularly visit this section to keep their profile updated, manage their access, and ensure continued compliance with TGDeX policies.
+> Users should regularly visit this section to keep their profile updated, manage their access, and ensure continued compliance with Forest Stack policies.
 
 ![User Profile Management Screen](./img/fig92.png)
+My Profile Section

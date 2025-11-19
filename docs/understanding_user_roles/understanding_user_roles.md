@@ -3,9 +3,9 @@ title: "Introduction"
 sidebar_position: 1
 ---
 
-TGDeX supports multiple user roles, each designed to provide specific capabilities based on a user's purpose and responsibilities on the platform. Roles can be upgraded through eKYC and organization affiliation.
+Forest Stack supports multiple user roles, each designed to offer specific capabilities based on a user's purpose and responsibilities on the platform. Roles are upgradable through organisation affiliation.
 
-## Roles supported by TGDeX:
+## Roles supported by Forest Stack:
 
 - [Consumer](consumer.md)
 - [Publisher](publisher.md)

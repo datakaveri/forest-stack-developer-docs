@@ -22,10 +22,10 @@ sidebar_position: 1
 ![Creating Password](images/creating_password.png)  
 *Creation of strong password*
 
-**Step 4:** Agree to the [Terms of Service](https://tgdex.telangana.gov.in/terms-of-service) and [Privacy Policy](https://tgdex.telangana.gov.in/privacy-policy) by checking the consent box. 
+**Step 4:** Agree to the [Terms of Service](https://uat.catalogue.forestdx.iudx.io/terms-of-service) and [Privacy Policy](https://uat.catalogue.forestdx.iudx.io/privacy-policy) by checking the consent box. 
 
 ![Agreement](images/agreement.png)  
-*Agreement to Terms of Service and Privacy Policy of TGDeX*
+*Agreement to Terms of Service and Privacy Policy of Forest Stack*
 
 **Step 5:** Verify your email by clicking the link sent to your inbox.  
 
