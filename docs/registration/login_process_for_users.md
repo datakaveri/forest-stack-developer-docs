@@ -13,9 +13,7 @@ sidebar_position: 2
 ![Form for Signing In](images/form_ss.png)  
 *Form for Signing In*
 
-**Step 3:** Enter the verification code sent to your email, then click **Submit**.
-
-**Step 4:** Access your dashboard — once verified, you’ll be redirected to the dashboard for your assigned role.  
+**Step 3:** Access your dashboard — once verified, you’ll be redirected to the dashboard for your assigned role.  
 
 ![Post-login consumer dashboard](images/post_login_dashboard.png)  
 *Post-login consumer dashboard*

@@ -25,7 +25,7 @@ The **My Profile** section allows users to manage their personal information, ac
 - Manage API Key creation for integrating Forest Stack programmatically
 - Change Password for account security
 - Delete Account to permanently remove the user from Forest Stack.
-  - Publisher with compute/organization manager, users have an option to transfer ownership of their uploaded assets before deleting their account.
+  - Publisher with compute/organisation manager, users have an option to transfer ownership of their uploaded assets before deleting their account.
 
 ### <u>Consent Management</u>
 - Tracks user agreements for:
@@ -35,4 +35,4 @@ The **My Profile** section allows users to manage their personal information, ac
 > Users should regularly visit this section to keep their profile updated, manage their access, and ensure continued compliance with Forest Stack policies.
 
 ![User Profile Management Screen](./img/fig92.png)
-My Profile Section
+_My Profile Section_

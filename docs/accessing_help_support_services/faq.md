@@ -19,5 +19,5 @@ The FAQs section provides quick answers to common questions about Forest Stack f
 - **Contact Us**: Support details for reaching the Forest Stack helpdesk.
 
 ![fig93](./img/fig93.png)
-
+*FAQs*
 

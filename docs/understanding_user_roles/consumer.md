@@ -20,9 +20,9 @@ Consumers can:
 - View your personal dashboard
 
 ![fig82](./img/fig82.png)
-Consumer Dashboard
+_Consumer Dashboard_
 
 - View/download activity history
 
 ![fig83](./img/fig83.png)
-My Activities
+_My Activities_

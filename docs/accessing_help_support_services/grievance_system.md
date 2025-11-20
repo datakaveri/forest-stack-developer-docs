@@ -32,7 +32,7 @@ The Grievance Management module leverages **osTicket**, an open-source ticketing
 1. Click the **Open a New Ticket** button.
 
 ![Open a New Ticket Button](./img/fig95.png)
-Clicking on Open a New Ticket
+_Clicking on Open a New Ticket_
 
 2. **Help Topic**: Choose from categories such as:
     - Feedback
@@ -43,7 +43,7 @@ Clicking on Open a New Ticket
 5. **Upload**: Attach screenshots or documents to support your case.
 
 ![Grievance Submission Form](./img/fig96.png)
-
+_Grievance Submission Form_
 
 ---
 
@@ -54,7 +54,7 @@ Clicking on Open a New Ticket
 - If you submitted as a **guest**: Click **"Check Ticket Status"**, enter your email and ticket number, and you'll receive a secure link via email to access your ticket.
 
 ![Ticket Status Page](./img/fig97.png)
-
+_Ticket Status Page_
 
 ---
 
@@ -72,7 +72,7 @@ On the ticket status page, you’ll find:
 - **Department**: Team currently handling the grievance.
 
 ![Ticket Information Example](./img/fig98.png)
-
+_Ticket Information Example_
 
 ---
 

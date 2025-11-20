@@ -14,11 +14,13 @@ The Use cases listing page provides users with access to a curated collection of
 ![Use cases listing page](./img/fig_use_cases_listing_page.png)
 - **Search Bar**: Located at the top, allows users to search for applications by keywords such as "chatbot", "health", or "transport".
   ![Use case search bar](./img/fig_use_case_search_bar.png)
+
 - **Filter Panel**:
+  - **Organisation**: Narrow results based on a specific organisation.
   - **Organisation Type**: Filter applications by the type of contributing organisation (Public, Private, Academic, Other)
-  - **Industry**: Narrow results based on specific sectors (e.g., Agriculture, Health, IT)
   - **Last Updated**: Apply filters to see applications recently added or modified.
-    ![Use case filter options](./img/fig_use_case_filter_options.png)
+
+![Use case filter options](./img/fig_use_case_filter_options.png)
 - **Use case Cards**: Each card displays:
   - Title
   - Publishing Data Provider Entity
@@ -28,8 +30,6 @@ The Use cases listing page provides users with access to a curated collection of
   - "View Use case" button to explore full details
 
 ![Use Case Cards](./img/fig_use_case_cards.png)
-
----
 
 ## Use Case Detail Page
 
@@ -63,14 +63,14 @@ Click on **Start Adding Use Case** and start entering use case information - In 
 ![Clicking on Start adding use case](./img/fig_clicking_on_start_adding_use_case.png)
 
 ![Figure](./img/fig74.png)
-Clicking on Start adding use case
+_Clicking on Start adding use case_
 
-
+-
 ![Use Case upload form](./img/use_case_upload_form.png)
 
 
 ![Description](./img/fig_description.png)
-Use Case upload form
+_Use Case upload form_
 
 ### Step 2: Review and Publish
 - This final step provides a preview of the complete submission. Users should review all fields including title, descriptions, tags, and associated assets.

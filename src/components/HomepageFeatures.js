@@ -24,12 +24,12 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Login/Registration for Users, eKYC, Joining Organizations',
+    title: 'Login/Registration for Users, Joining Organisations',
     link:"../../docs/registration/registration_users",
     Svg: require('../../static/img/datasets.svg').default,
     description: (
       <>
-		Stepwise registration, login, eKYC verification, and organization registration processes.
+		Stepwise registration, login, and organisation registration processes.
       </>
     ),
   },

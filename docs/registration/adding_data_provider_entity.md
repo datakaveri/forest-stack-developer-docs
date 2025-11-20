@@ -16,7 +16,7 @@ Following are the steps to join an already registered organization on the platfo
 *Option to Add Data Provider Entity when not found in search*
 
 **Step 3:** You will be redirected to the Data Provider Entity Registration form. It includes three sections:  
-1. **<u>Organisation Manager Details:</u>** Fill your profile (Name, Data Provider Entity email, etc.)
+1. **<u>Data Provider Entity Details:</u>** Fill your profile (Name, Data Provider Entity email, etc.)
 2. **<u>Enter Data Provider Entity Details:</u>** Fill in entity type, sector, name, website, and address.
 3. **<u>Upload Data Provider Entity Documents:</u>** Upload required files such as, Firm Incorporation Certificate, PAN Card of the Data Provider Entity, Authorization document (stating that user is authorized by their organisation to become Organisation Manager on Forest Stack and manager users and assets on behalf of the Data Provider Entity), Any other supporting document (optional).
 ![Data Provider Entity Registration Form - Organisation Manager Details](images/organisation_manager.png)  

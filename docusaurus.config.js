@@ -14,9 +14,9 @@ const config = {
   baseUrl,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/tgdex_logo.svg',
-  organizationName: 'TGDeX', // Usually your GitHub org/user name.
-  projectName: 'TGDeX', // Usually your repo name.
+  favicon: 'img/forest_logo.svg',
+  organizationName: 'ForestDx', // Usually your GitHub org/user name.
+  projectName: 'Forest Stack', // Usually your repo name.
 
   presets: [
     [
@@ -44,7 +44,7 @@ const config = {
       // Announcement bar as the “Connect / CTA” banner
       announcementBar: {
         id: 'department_header',
-        content: 'DEPARTMENT OF INFORMATION TECHNOLOGY, ELECTRONICS AND COMMUNICATIONS',
+        content: 'FOREST DEPARTMENT OF RAJASTHAN',
         backgroundColor: '#1f2937',
         textColor: '#FFFFFF',
         isCloseable: false,
@@ -55,7 +55,7 @@ const config = {
         logo: {
           alt: 'My Site Logo',
           src: 'img/Forest_Stack.png',
-          href: 'https://tgdex.telangana.gov.in/',
+          href: 'https://forest-stack.digivan.forest.rajasthan.gov.in/',
           target: '_blank',
         },
         items: [],
@@ -83,16 +83,13 @@ const config = {
         Forest Stack is a digital ecosystem, combining data, technology & governance to enhance forest cover, biodiversity conservation, enhance community involvement and unlock further innovation by startups, academia & conservationists. It is designed to bring a holistic view across multiple forest-related verticals and enable rapid digital interventions in the forestry space.    </p>
     <h5 class="footer__social-heading">Social Media</h5>
     <div class="footer__social-icons">
-      <a href="https://www.facebook.com/etgots/" target="_blank" rel="noopener">
+      <a href="https://www.facebook.com/forestdepartmentrajasthan" target="_blank" rel="noopener">
         <img src="${baseUrl}img/meta.svg" alt="Meta" />
       </a>
-      <a href="https://x.com/emergingtechts" target="_blank" rel="noopener">
+      <a href="https://x.com/ForestRajasthan" target="_blank" rel="noopener">
         <img src="${baseUrl}img/x.svg" alt="X" />
       </a>
-      <a href="https://www.linkedin.com/company/et-itec-gots/?originalSubdomain=in" target="_blank" rel="noopener">
-        <img src="${baseUrl}img/linkedin.svg" alt="LinkedIn" />
-      </a>
-      <a href="https://www.instagram.com/emerging.technology.ts.gov.in" target="_blank" rel="noopener">
+      <a href="https://www.instagram.com/rajasthanforestdepartment/" target="_blank" rel="noopener">
         <img src="${baseUrl}img/instagram.svg" alt="Instagram" />
       </a>
     </div>
@@ -103,11 +100,11 @@ const config = {
 
           // 2nd column: “TGDeX”
           {
-            title: 'TGDeX',
+            title: 'Forest Stack',
             items: [
-              { label: 'Home', to: 'https://tgdex.telangana.gov.in/' },
-              { label: 'About TGDeX', to: 'https://tgdex.telangana.gov.in/about-us' },
-              { label: 'Contact Us', to: 'https://helpdesk.tgdex.telangana.gov.in/' },
+              { label: 'Home', to: 'https://forest-stack.digivan.forest.rajasthan.gov.in/' },
+              { label: 'About Forest Stack', to: 'https://forest-stack.digivan.forest.rajasthan.gov.in/about-us' },
+              { label: 'Contact Us', to: 'https://helpdesk.forest-stack.digivan.forest.rajasthan.gov.in/' },
             ],
           },
 
@@ -115,12 +112,10 @@ const config = {
           {
             title: 'Platform Features',
             items: [
-              { label: 'Data Banks', to: 'https://tgdex.telangana.gov.in/data-bank' },
-              { label: 'AI Models', to: 'https://tgdex.telangana.gov.in/ai-model' },
-              { label: 'Use Cases', to: 'https://tgdex.telangana.gov.in/potential-application' },
-              { label: 'Sandbox IDE', to: 'https://tgdex.telangana.gov.in/sandbox' },
-              { label: 'Toolsets', to: 'https://tgdex.telangana.gov.in/toolsets' },
-              { label: 'Library', to: 'https://tgdex.telangana.gov.in/library' },
+              { label: 'Data Sets', to: 'https://forest-stack.digivan.forest.rajasthan.gov.in/datasets' },
+              { label: 'Models', to: 'https://forest-stack.digivan.forest.rajasthan.gov.in/models' },
+              { label: 'Usecases', to: 'https://forest-stack.digivan.forest.rajasthan.gov.in/usecases' },
+              { label: 'Challenges', to: 'https://forest-stack.digivan.forest.rajasthan.gov.in/innovations' },
             ],
           },
 
@@ -128,10 +123,9 @@ const config = {
           {
             title: 'Help & Support',
             items: [
-              { label: 'Help & Support', to: 'https://helpdesk.tgdex.telangana.gov.in/' },
-              { label: 'FAQs', to: 'https://tgdex.telangana.gov.in/faq' },
+              { label: 'Help & Support', to: 'https://helpdesk.forest-stack.digivan.forest.rajasthan.gov.in/' },
+              { label: 'FAQs', to: 'https://forest-stack.digivan.forest.rajasthan.gov.in/faq' },
               { label: 'User Manual', to: '/' },
-              { label: 'Sitemap', to: 'https://tgdex.telangana.gov.in/sitemap' },
             ],
           },
         ],
@@ -148,13 +142,13 @@ const config = {
     </div>
 
     <div class="footer__privacy-terms">
-      <a href="https://tgdex.telangana.gov.in/privacy-policy"
+      <a href="https://forest-stack.digivan.forest.rajasthan.gov.in/privacy-policy"
          target="_blank"
          rel="noopener">
         Privacy Policy
       </a>
       <span>|</span>
-      <a href="https://tgdex.telangana.gov.in/terms-of-service"
+      <a href="https://forest-stack.digivan.forest.rajasthan.gov.in/terms-of-service"
          target="_blank"
          rel="noopener">
         Terms of Service
@@ -164,7 +158,7 @@ const config = {
 
   <!-- Full-width © strip -->
   <div class="full-width-cta">
-    &copy; Government of Telangana
+    &copy; Government of Rajasthan
   </div>
 </footer>
 

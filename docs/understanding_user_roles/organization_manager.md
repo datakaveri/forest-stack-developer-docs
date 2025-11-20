@@ -1,9 +1,9 @@
 ---
-title: "Organization Manager"
+title: "Organisation Manager"
 sidebar_position: 4
 ---
 
-# Organization Manager
+# Organisation Manager
 
 ---
 
@@ -13,17 +13,17 @@ Organisation Managers hold administrative control for their organisation’s pre
 - Managing the organisation’s user base (add/remove users, assign roles)
 
 ![fig87](./img/fig87.png)
-Manage Users Section
+_Manage Users Section_
 
 ![fig88](./img/fig88.png)
-User Requests Section
+_User Requests Section_
 
 - Reviewing and approving asset access requests (asset download requests/asset  publication requests/role upgradation requests)
 
 ![fig89](./img/fig89.png)
-Manage Assets Section
+_Manage Assets Section_
 
 ![fig90](./img/fig90.png)
-Asset Requests Section
+_Asset Requests Section_
 
 - Maintaining the organisation profile and ensuring compliance with Forest Stack policies.

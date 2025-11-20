@@ -16,7 +16,7 @@ The footer reinforces the platform’s identity with quick navigation links:
 
 It also includes:
 - The Forest Stack logo with a brief description of the platform’s mission
-- Social media icons: Facebook, X, LinkedIn, Instagram
+- Social media icons: Facebook, X, Instagram
 - Legal links: Privacy Policy and Terms of Service
 
 ![Call to Action and Footer section](images/action_footer.png)  

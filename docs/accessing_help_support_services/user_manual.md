@@ -7,7 +7,7 @@ sidebar_position: 3
 
 ---
 
-This comprehensive User Manual serves as a reference guide for navigating TGDeX. It includes detailed instructions for each module, including:
+This comprehensive User Manual serves as a reference guide for navigating Forest Stack. It includes detailed instructions for each module, including:
 
 - Onboarding
 - Asset contribution

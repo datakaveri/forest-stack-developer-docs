@@ -14,10 +14,12 @@ Datasets are collections of datasets made available on Forest Stack. These may i
 The Dataset Listing page offers a consolidated view of all available Datasets, complete with a search bar, sorting options and a collapsible filter panel (by Data Provider Entity type, department, access status and more) to help users pinpoint relevant assets. Each Dataset is presented as a card showing its title, publisher, readiness score, file type, access level and a brief description, with a **View Dataset** button to access full details or download options.
 
 ![Data Bank Listing Page](./img/fig_data_bank_listing_page.png)
+_Data Bank Listing Page_
 
 ### Data Sets Search Bar
 Positioned at the top of the Dataset Listing page, the search bar lets users enter keywords to quickly locate specific Datasets. As users type, it offers instant suggestions and filters the displayed cards to match titles, descriptions or tags, streamlining the discovery process.
 ![Data Sets Search Bar](./img/fig_data_bank_search_bar.png)
+_Data Sets Search Bar_
 
 ### Filter Feature
 The filter panel is divided into several sections, each allowing users to narrow the Data Set listing according to specific criteria:
@@ -36,6 +38,7 @@ The filter panel is divided into several sections, each allowing users to narrow
 - Last Updated: Restrict results to data Sets updated in last 7 days, last 30 days, last 1 year or within a custom date range.
 
 ![Filter Feature](./img/fig_filter_options.png)
+_Filter Feature_
 
 ### Data Set Card
 Each Data Set card provides a snapshot of key information:
@@ -50,6 +53,7 @@ Each Data Set card provides a snapshot of key information:
 - **Action Button**: "View DataSet” to open the full details and download options.
 
 ![Data Set Card](./img/fig_data_bank_cards.png)
+_Data Set Card_
 
 ---
 
@@ -73,8 +77,8 @@ Each Data Set card provides a snapshot of key information:
 - **Data Readiness**: A data readiness score (percentage) that reflects completeness, documentation and cleanliness of the dataset.
 - **Verified By**: The role or individual—typically the Organisation Manager—who reviewed and approved the Data Bank for publication.
 
-    ![Dataset Details](./img/data_set_details.png)
-    Dataset Details
+![Dataset Details](./img/data_set_details.png)
+_Dataset Details_
 
 2. **<u>Data Querying:</u>**
 - Get Data
@@ -89,7 +93,7 @@ Each Data Set card provides a snapshot of key information:
 ### Step 1: Click on **Start adding Data Set** and set up your data set:
 1. **Enter Title & Permission:**
    - **Data Set Title**: Give your dataset a clear, descriptive name.
-   - **Data Set Permission**: Choose from following in the drop down:
+   - **Data Set Permission**: Choose from following in the drop-down:
      - Open: Viewable/downloadable by all registered users
      - Restricted: Users can view data Set but downloadable only upon publisher’s approval
      - Private: Data Set is not viewable/ downloadable by anyone, meant for personal use
@@ -98,9 +102,9 @@ Each Data Set card provides a snapshot of key information:
    - **Import from JSON:** Click ‘Upload JSON File’ to upload your metadata using an existing template file
 
 ![Clicking on Start adding Data Set](./img/fig_start_adding_data_bank.png)
-![Set up your data bank](img/fig_set_up_your_data_set.png)
+![Set up your data set](img/fig_set_up_your_data_set.png)
 ![Set up your data set](./img/fig_set_up_your_data_set_1.png)
-Set up your dataset
+_Set up your dataset_
 
 ### Step 2: Enter Metadata Information
 1. Under metadata Information, fill out each mandatory field:
@@ -121,9 +125,9 @@ Set up your dataset
  
 ![Step 2: Add Tags Example](./img/fig51.png)
 ![Adding Metadata Information](img/fig_adding_metadata_information.png)
-Adding metadata information
+_Adding metadata information_
 
-### Step 3: Upload Data Bank
+### Step 3: Upload Data Set
 The user should upload the relevant files according to the file format selected in Step 2. Users can upload multiple files using the "Upload More" button. Additionally, users can clear or delete any previously uploaded files and upload new files or an entirely new set using the **Clear All** button.
 ![Uploading Data](img/fig_uploading_data.png)
 
@@ -143,7 +147,7 @@ Depending on a Data Set's permission level, the steps to download differ slightl
   1. Click the **Download** button on the data set details page.
   2. The entire Data Bank (all files and folders) is packaged into a single ZIP archive and begins downloading immediately
 ![Open Datasets](img/fig_download_openDI.png)
-Downloading Open Datasets
+_Downloading Open Datasets_
 
 - **Restricted Data Sets:**
   1. Click the **Request Access** button on the data bank details page
@@ -153,6 +157,6 @@ Downloading Open Datasets
   5. Click **Download** to retrieve the full Data Set.
   
 ![Downloading Restricted Data Sets](img/fig_downloading_restricted_data_banks.png)
-Downloading Restricted Data Sets
+_Downloading Restricted Data Sets_
 
 ---

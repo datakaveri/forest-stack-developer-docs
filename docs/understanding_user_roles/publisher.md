@@ -19,10 +19,10 @@ Publishers can:
 - Manage uploaded assets.
 
 ![fig85](./img/fig86.png)
-Manage Assets Section
+_Manage Assets Section_
 
 
 - Approve requests from users to download your assets
 
 ![fig86](./img/fig85.png)
-Asset Requests section
+_Asset Requests section_
