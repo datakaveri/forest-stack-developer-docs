@@ -1,8 +1,9 @@
 .features {
   display: flex;
   align-items: center;
-  padding: 2rem 0;
+  padding: 4rem 0;
   width: 100%;
+  margin-bottom: 6rem;
 }
 
 .featureSvg {
@@ -10,10 +11,51 @@
   width: 200px;
 }
 
-.featureCard{
-  text-decoration: none;
+.features .col {
+  padding: 1rem;
+}
+.card {
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  overflow: hidden;
+}
+/* Outer wrapper for each card */
+.cardBox {
+  border: 1px solid #3F6212;      
+  border-radius: 12px;            
+  padding: 24px;
+  transition: all 0.2s ease;
+  height: 100%;                   
 }
 
-.featureCard:hover{
-  text-decoration: none;
+.cardBox h3 {
+  color: #365314;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+/* Description */
+.cardBox p {
+  font-size: 14px;
+  color: #6b7280;;
+  font-weight: 500;
+}  
+
+/* Hover effect */
+.cardBox:hover {
+  
+  border-radius: 20px;
+box-shadow: 0 16px 48px 4px rgba(54, 83, 20, 0.35);
+}
+
+.cardBox:hover h3 {
+  color: #6fa429 ;
+}
+
+/* Add spacing between cards */
+.featureCard {
+  margin-bottom: 24px;          
+  padding: 12px;                
+  display: block;
+  text-decoration: none !important;
 }

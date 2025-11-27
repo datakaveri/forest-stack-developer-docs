@@ -6,7 +6,7 @@ const FeatureList = [
 {
     title: 'Overview',
     link:"../../docs/overview",
-    Svg: require('../../static/img/getting_started.svg').default,
+    Svg: require('../../static/img/overview.svg').default,
     description: (
       <>
         Introduction, purpose, audience, and usage guide for Forest Stack platform.
@@ -16,7 +16,7 @@ const FeatureList = [
   {
     title: 'Navigating the Home Page',
     link:"../../docs/navigating_home_page/overview",
-    Svg: require('../../static/img/consuming_data.svg').default,
+    Svg: require('../../static/img/navigate.svg').default,
     description: (
       <>
         Homepage layout, navigation options, features, and resources.
@@ -26,7 +26,7 @@ const FeatureList = [
   {
     title: 'Login/Registration for Users, Joining Organisations',
     link:"../../docs/registration/registration_users",
-    Svg: require('../../static/img/datasets.svg').default,
+    Svg: require('../../static/img/login.svg').default,
     description: (
       <>
 		Stepwise registration, login, and organisation registration processes.
@@ -36,7 +36,7 @@ const FeatureList = [
   {
     title: 'Platform Capabilities (Datasets/Models/Usecases)',
     link:"../../docs/platform_capabilities/platform_capabilities",
-    Svg: require('../../static/img/provider.svg').default,
+    Svg: require('../../static/img/capability.svg').default,
     description: (
       <>
         Discover, upload, manage, and download Forest Stack platform assets.	  </>
@@ -45,7 +45,7 @@ const FeatureList = [
   {
     title: 'Understanding User Roles',
     link:"../../docs/understanding_user_roles/understanding_user_roles",
-    Svg: require('../../static/img/Api.svg').default,
+    Svg: require('../../static/img/user.svg').default,
     description: (
       <>
         Describes platform user roles, permissions, up-gradation process, and profile management.
@@ -55,7 +55,7 @@ const FeatureList = [
   {
     title: 'Accessing Help and Support Services',
     link:"../../docs/accessing_help_support_services/faq",
-    Svg: require('../../static/img/subscribe.svg').default,
+    Svg: require('../../static/img/help-user.svg').default,
     description: (
       <>
         Find help using FAQs, submit tickets, or access support resources.         </>
@@ -65,20 +65,21 @@ const FeatureList = [
 
 function Feature({Svg, link, title, description}) {
   return (
-    
-    <a className={`${clsx('col col--4')} ${styles.featureCard}`} href={link}><div className={clsx('border border--1')}>
-    <div classname={styles.featureCard}>
-    <div className="text--center">
-      <Svg className={styles.featureSvg} alt={title} />
-    </div>
-    <div className="text--center padding-horiz--md">
-      <h3>{title}</h3>
-      <p>{description}</p>
-    </div>
-  </div>
-  </div></a>
+    <a className={`${clsx('col col--4')} ${styles.featureCard}`} href={link}>
+      <div className={styles.cardBox}>
+        <div className="text--center">
+          <Svg className={styles.featureSvg} alt={title} />
+        </div>
+
+        <div className="text--center padding-horiz--md">
+          <h3>{title}</h3>
+          <p>{description}</p>
+        </div>
+      </div>
+    </a>
   );
 }
+
 
 export default function HomepageFeatures() {
   return (
