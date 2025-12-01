@@ -12,21 +12,21 @@ Rajasthan Forest Stack Data Exchange is an initiative by the Rajasthan Forest De
 
 This section explains the objective and best ways to use this guide.
 
-### Purpose
+## Purpose
 
 This manual provides a clear, step-by-step walkthrough of the Data Exchange features and workflows. Whether a user is searching for data, uploading a new dataset, building a new use case/application, or configuring user permissions, they can find concise instructions, screenshots, and tips to help in completing each task with confidence.
-### Intended Audience
+## Intended Audience
 
 This guide is designed for:
 
-#### Consumers 
+### Consumers 
 
 Individuals or teams who browse, query, and download assets like datasets, Models, and user cases for analysis or building new AI solutions. For example, Govt. data officers, AI startups, AI researchers, policymakers, Analysts, Consultants, Non-profit/NGOs, Private sector firms, Coding enthusiasts.
 
-#### Publishers
+### Publishers
 
 Users responsible for uploading, annotating, and managing datasets on Forest Stack. For example, government data officers, researchers, non-profits/NGOs, and private sector firms.
 
-#### Organisation Managers
+### Organisation Managers
 
 Departmental leads and project coordinators who oversee data governance, set access policies, and review usage reports. For example, startup founders, AI researchers, project leaders, and department heads.

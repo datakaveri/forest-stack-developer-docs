@@ -46,14 +46,13 @@ _Models Filter options_
 
 ### Model Card
 Each model card provides a snapshot of the following key information:
-- **Access Status** - "Open" or "Restricted" badge
-- **Publishing Data Provider Entity**
 - **Title**
-- **Short description**
 - **Tags**
-- **File format**
+- **Publishing Data Provider Entity**
+- **Model Type**
+- **Programming Language**
 - **Last updated date**
-- **Action Button**: "View Model" to open the full details and download options
+- **Access Status** - "Open" or "Restricted" badge
 
 ![Model Cards](./img/fig_ai_model_cards.png)
 _Model Cards_
@@ -66,7 +65,7 @@ When users select a Model card, they arrive at the Model Detail page, which is o
 
 ### Page Header & Actions
 - **Breadcrumb Trail**: Shows “Home / Models / [Model Name]” so users know their location.
-- **Model Title & Permission**: The model’s name (e.g., “Telugu Grievance Classification Model”) is accompanied by an Open or Restricted badge.
+- **Model Title & Permission**: The model’s name (e.g., “Forest Density Metrics”) is accompanied by an Open or Restricted badge.
 - **Download Button**: For Open models, users can immediately download the model archive; for Restricted models, this button becomes active once access is granted.
 ### Description 
 - A concise summary describing the model's purpose, key capabilities.
@@ -75,16 +74,11 @@ When users select a Model card, they arrive at the Model Detail page, which is o
 
 ### Model Details Panel
 A structured metadata table presents:
-- **Data Provider Entity**: The government department, agency or entity that has the ownership of the published model.
-- **Industry**: The sector classification—such as Public Services, Healthcare or Agriculture—that indicates the model’s primary domain, if any. If model is not associated to any industry, it is depicted as sector agnostic
-- **Uploaded By**: The individual or team (and their organisation) that submitted the model to Forest Stack.
-- **Model Permission**: Access level (Open or Restricted)
-- **Last Updated**: Timestamp of the most recent update of the model
-- **License**: Governing usage terms (e.g., Apache 2.0)
 - **Model Type**: Task category (e.g., Text Classification)
-- **File Type**: Format of the model bundle (e.g., Safetensors)
+- **Programming Language**: Programming Language of the model (e.g., Python)
+- **Last Updated**: Last updated date of the model
 - **File Size**: Download size of complete model repository
-
+- **Github Repo**: Link to redirect to models github repo
 ![Models detail page](./img/fig_ai_models_detail_page.png)
 _Models detail page_
 
@@ -93,7 +87,7 @@ _Models detail page_
 ## Model Upload
 
 ### Step 1: Click on ‘Start adding Model’ and then, set up your Model.
-1. **Model Title**: Enter a concise, descriptive name that clearly reflects the model's function (e.g., "Telugu Grievance Classification Model")
+1. **Model Title**: Enter a concise, descriptive name that clearly reflects the model's function (e.g., "Forest Density Metrics")
 2. **Model Permission**:
    - **Open**: The model is publicly accessible—any user can download or invoke it immediately without approval.
    - **Restricted**: Access requires approval from the publisher of that particular Model.
@@ -105,12 +99,12 @@ _Models detail page_
 ![Clicking on Start adding Model](./img/fig_clicking_on_start_adding_ai_model.png)
 _Clicking on 'Start adding Model'_
 
-`-
+
 ![Set up your Model](./img/fig_set_up_your_ai_model.png)
 _Add Model_
--
-![Set up your Model](./img/fig_set_up_your_ai_model.png)
-_Set up your Model_
+
+![Enter model title and Permission](./img/fig_set_model_name_permission.png)
+_Add Model title and Permission_
 
 ### Step 2: Provide Model Information
 Once the basic setup is complete, fill in the model’s descriptive and structured metadata:

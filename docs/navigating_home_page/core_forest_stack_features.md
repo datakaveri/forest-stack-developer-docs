@@ -15,3 +15,6 @@ This section introduces the core pillars that power Forest Stack’s data-driven
 
 ![Forest Stack core features Use Cases section](images/tgdex_use_cases.png)  
 *Forest Stack core features Use Cases section*
+
+![Forest Stack core features Challenges section](images/tgdex_challenges.png)  
+*Forest Stack core features Challenges section*
