@@ -23,8 +23,8 @@ _Data Sets Search Bar_
 
 ### Filter Feature
 The filter panel is divided into several sections, each allowing users to narrow the Data Set listing according to specific criteria:
-- Tags: Applying an industry filter limits results to Data Sets tagged under those sectors. Type to search or select one or more industries— such as Biodiversity, Rajasthan, Species, Forest, Microbiology etc.
-- Concepts : 
+- Tags: Custom keywords you add to highlight important or unique aspects of your dataset. They act as search terms that help users quickly discover your content.
+- Concepts : Standardized domain categories you choose to classify your dataset into broader thematic areas, making it easier for users to browse and understand the dataset’s domain.
 - File Format: Choose from formats like CSV, PDF, TXT, Shapefile, image files etc. Selecting multiple types returns any Data Set offering at least one of the chosen formats.
 - Access Permission:
   - Open: Publicly available Data Sets with immediate download access.
