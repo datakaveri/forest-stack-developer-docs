@@ -1,23 +1,22 @@
 ---
-title: "Call to Action and Footer"
+title: "Footer"
 hide_title: true
 sidebar_position: 9
 ---
 
-## Call to Action & Footer
-
-At the bottom of the Home Page, a prominent banner prompts users to **Register Now** or **Contact Us**, encouraging them to join the Forest Stack community, explore Data Sets, Models, and Use cases, and start building solutions.
+## Footer
 
 The footer reinforces the platform’s identity with quick navigation links:
 
-- **Forest Stack:** Home, About Us, Contact Us  
-- **Platform Features:** Data Set, Models, Use Cases 
-- **Help & Support:** Grievance, FAQ, User Manuals
+- **Important Links:** Forest Stack Home, About Us, Datasets, Models, Use Cases, Challenges  
+- **Control Plane Documentation:** Catalogue AAA API Docs, Models, Data Plane Documentation, Resource Server API Docs ,File Server API Docs, OGC Server API Docs, Gateway Server API Docs, Vocabulary Docs
+- **Help & Support:** FAQ, User Manuals
 
 It also includes:
 - The Forest Stack logo with a brief description of the platform’s mission
-- Social media icons: Facebook, X, Instagram
+- Social media icons: X, Facebook, Instagram
 - Legal links: Privacy Policy and Terms of Service
+- Our Partners: Logos of partner organization
 
-![Call to Action and Footer section](images/action_footer.png)  
-*Call to Action and Footer section*
+![Footer section](images/action_footer.png)  
+*Footer section*

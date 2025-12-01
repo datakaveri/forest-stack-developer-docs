@@ -8,5 +8,5 @@ Forest Stack supports multiple user roles, each designed to offer specific capab
 ## Roles supported by Forest Stack:
 
 - [Consumer](consumer.md)
-- [Publisher](publisher.md)
+- [Provider](provider.md)
 - [Organization Manager](organization_manager.md)

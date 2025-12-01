@@ -9,14 +9,17 @@ The navigation bar spans the top of every Forest Stack page, providing one-click
 ### Forest Stack Logo
 Click to return to the Home Page from anywhere in the platform.
 
-### Data Sets
+### Datasets
 Direct link to browse, search, and filter available Data Sets.
 
 ### Models
-Takes users to the gallery of pre-trained Models, with options to navigate to the respective github pages and download them.
+Takes users to the gallery of pre-trained Models, with options to navigate to the respective GitHub pages.
 
 ### Use Cases
 Takes users to a gallery of Use cases showcasing real-world use cases to inspire AI innovation.
+
+### Challenges
+Lists Rajasthan Forest Stack innovation challenges with their context, themes, timelines, partners, highlights, winners, and contact details.
 
 ### About Us
 Opens the overview page detailing Forest Stack’s vision and core values.

@@ -3,7 +3,7 @@ title: "Forgot Password"
 sidebar_position: 3
 ---
 
-**Step 1:** Click **Forgot Password** on the Sign In page.  
+**Step 1:** Click **Forgot Password** on the Login/Register page.  
 
 ![Clicking on Forgot Password](images/forgot_password.png)  
 *Clicking on Forgot Password*
@@ -23,4 +23,4 @@ sidebar_position: 3
 ![Screenshot of new password creation](images/update_password.png)  
 *Screenshot of new password creation*
 
-**Step 5:** Your password will be updated. Sign in with your new password to access your dashboard.
+**Step 5:** Your password will be updated. Login/Register with your new password to access your dashboard.

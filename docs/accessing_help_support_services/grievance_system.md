@@ -1,9 +1,9 @@
 ---
-title: "Grievance Redressal System"
+title: "Help and Support"
 sidebar_position: 2
 ---
 
-# Grievance Redressal System
+# Help and Support
 
 ## Overview
 
@@ -11,9 +11,9 @@ The Grievance Management module leverages **osTicket**, an open-source ticketing
 
 ---
 
-## Issue Submission
+## Ticket Submission
 
-### Raising a Grievance
+### Raising a Ticket
 
 1. Scroll down to the footer of the Rajasthan Data Exchange portal.
 
