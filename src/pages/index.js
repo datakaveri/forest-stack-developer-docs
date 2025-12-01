@@ -10,7 +10,7 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <h1 className="hero__title">ForestDX User Manual</h1>
+        <h1 className="hero__title">Forest Stack User Manual</h1>
         <p className="hero__subtitle">Guide to navigating Forest Stack platform features, roles, and support resources</p>
       </div>
     </header>

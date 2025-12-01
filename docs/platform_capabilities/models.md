@@ -74,12 +74,18 @@ When users select a Model card, they arrive at the Model Detail page, which is o
 
 ### Model Details Panel
 A structured metadata table presents:
+- **Organization**: The government department, agency or entity that has the ownership of the published Model.
+- **Uploaded By**: The individual or team (and their organisation) that submitted the model to Forest Stack.
+- **Industry**: The sector classification—such as Public Services, Healthcare or Agriculture—that indicates the model’s primary domain, if any. If model is not associated to any industry, it is depicted as sector agnostic
+- **License**: Governing usage terms (e.g., Apache 2.0).
+- **Model Permission**: Access level (Public or Restricted).
 - **Model Type**: Task category (e.g., Text Classification)
 - **Programming Language**: Programming Language of the model (e.g., Python)
 - **Last Updated**: Last updated date of the model
 - **File Size**: Download size of complete model repository
 - **Github Repo**: Link to redirect to models github repo
-![Models detail page](./img/fig_ai_models_detail_page.png)
+
+- ![Models detail page](./img/fig_ai_models_detail_page.png)
 _Models detail page_
 
 ---
@@ -91,7 +97,6 @@ _Models detail page_
 2. **Model Permission**:
    - **Open**: The model is publicly accessible—any user can download or invoke it immediately without approval.
    - **Restricted**: Access requires approval from the publisher of that particular Model.
-   - **Private**: The model is visible and usable only by the publisher. 
 3. **Metadata Entry Options**:
    - **Enter Metadata Manually**: Opens a form where you have to fill short/long descriptions, tags and structured fields from scratch.
    - **Import from JSON**: Upload an existing Forest Stack-compatible JSON manifest to pre-populate all metadata fields—ideal for automated workflows or bulk model registrations.
@@ -108,19 +113,16 @@ _Add Model title and Permission_
 
 ### Step 2: Provide Model Information
 Once the basic setup is complete, fill in the model’s descriptive and structured metadata:
+- **Model Title**: Title of the model
+- **Model Permission**: Access level of the model.(e.g.: OPEN or Restricted)
 - **Short Description**: A One- or two-sentence summary of the model's task and capabilities
 - **Tags**: Add up to five keywords that aid discovery (e.g., “Text Classification,” “NLP,” “Grievance”).
 - **Long Description**:  In the long description, users should clearly explain what the model is meant to do, what kind of input it takes and what output it gives. They should also mention key features like support for different languages, the ability to customize outputs. Finally, it’s helpful to describe how the model can be used or where it can be applied.
-- **Model Details**:
-  - **Data Provider Entity**: The government department, agency or entity that has the ownership of the published dataset.
-  - **Organisation Type**: Public, Private, Academic, NGO/Non-profit, or Other
-  - **Uploaded By**: Please mention your user name, team name or Data Provider Entity
-  - **License**: Legal terms governing model reuse (e.g., Apache 2.0).
-  - **File Size**: Approximate download size (e.g., 100 MB).
-  - **Model Type**: AI task category (Text Classification, Object Detection, etc.)
-  - **File Format**: Bundle format(s) supported (SAFETENSORS, ONNX, PKL, etc.)
-  - **Industry**: Select sector classification—such as Healthcare or Agriculture—that indicates the model’s primary domain, if any. If model is not associated to any industry, please select sector agnostic.
-  - **Media URL**: URL link for the Model (e.g., GitHub link)
+- **License**: Legal terms governing reuse.
+- **Concepts**: Predefined domain categories used to classify your dataset into broader thematic areas for easier browsing.Choose appropriate from the drop down.
+- **Model Type**: AI task category (Text Classification, Object Detection, etc.)
+- **File Format**: Bundle format(s) supported (SAFETENSORS, ONNX, PKL, etc.)
+- **Upload or Redirect Link**: Choose upload files or choose redirect url and paster the url.
 
 ![Enter Model Information](./img/fig_enter_ai_model_information1.png)
 

@@ -1,17 +1,17 @@
 ---
-title: "Login process for users"
+title: "Login process for Users"
 sidebar_position: 2
 ---
 
-**Step 1:** Click **Sign In** on the Home Page.  
+**Step 1:** Click **Login/Register** on the Home Page.  
 
 ![Sign in button](images/sign_in_button.png)  
-*Clicking on Sign In button*
+*Clicking on Login/Register button*
 
 **Step 2:** Enter your email address and password.
 
 ![Form for Signing In](images/form_ss.png)  
-*Form for Signing In*
+*Form for Logging In*
 
 **Step 3:** Access your dashboard — once verified, you’ll be redirected to the dashboard for your assigned role.  
 

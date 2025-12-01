@@ -23,11 +23,8 @@ The Use cases listing page provides users with access to a curated collection of
 ![Use case filter options](./img/fig_use_case_filter_options.png)
 - **Use case Cards**: Each card displays:
   - Title
-  - Publishing Data Provider Entity
   - Short Description
   - Tags
-  - Last Updated date
-  - "View Use case" button to explore full details
 
 ![Use Case Cards](./img/fig_use_case_cards.png)
 
@@ -56,9 +53,7 @@ Click on **Start Adding Use Case** and start entering use case information - In 
 - **Short Description**: A brief summary describing the nature of the problem or use case and what the application aims to achieve.
 - **Tags**: Keywords related to the domain, solution, or technologies involved.
 - **Long Description**: The long description should provide a clear and detailed explanation of the application. It should describe the specific problem being addressed and explain how AI or data can help solve it. It should also mention the relevant domain or department the solution applies to. Additionally, the description should include the type of data or model used in the solution.
-- **Organisation Type**: Select whether the contributor is from a public, private, academic, NGO/non-profit or other type of organisation.
-- **Industry**: Sector classification of the problem being solved
-- **Add Associated Assets**: Link relevant data sets/Models already published on Forest Stack that were utilized or can be utilized to solve the problem
+- **Section Title & Description**: Title of the section and its description.
 
 ![Clicking on Start adding use case](./img/fig_clicking_on_start_adding_use_case.png)
 

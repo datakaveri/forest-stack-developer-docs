@@ -1,19 +1,19 @@
 ---
-title: "Publisher"
+title: "Providers"
 sidebar_position: 3
 ---
 
-# Publisher
+# Provider
 
 ---
 
 ## Additional Access and Permissions
 
-Publishers can:
-- Publishers can contribute assets to the platform, including Datasets, Models , and Use cases.
+Providers can:
+- Providers can contribute assets to the platform, including Datasets, Models , and Use cases.
 ---
 
-## Additional Publisher-specific Screens
+## Additional Providers-specific Screens
 
 - Option to upload new assets (Datasets/Models /Use cases) on platform.
 - Manage uploaded assets.

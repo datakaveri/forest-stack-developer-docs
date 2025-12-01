@@ -14,18 +14,13 @@ The **My Profile** section allows users to manage their personal information, ac
   - Full Name
   - Username
   - Email ID
-  - Phone Number
 - Edit these fields by clicking **Edit Profile** (top right) and save with **Save Changes**
 
-### <u>Socials</u>
-- Link your social media or professional accounts (Twitter, LinkedIn, GitHub)
-- These fields are optional and can help enhance profile visibility, especially for contributors.
-
 ### <u>Account Settings</u>
-- Manage API Key creation for integrating Forest Stack programmatically
+- Get client credentials for integrating Forest Stack datasets programmatically
 - Change Password for account security
 - Delete Account to permanently remove the user from Forest Stack.
-  - Publisher with compute/organisation manager, users have an option to transfer ownership of their uploaded assets before deleting their account.
+  - Organisation manager, users have an option to transfer ownership of their uploaded assets before deleting their account.
 
 ### <u>Consent Management</u>
 - Tracks user agreements for:
