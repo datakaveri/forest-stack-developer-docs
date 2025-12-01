@@ -23,34 +23,27 @@ _Data Sets Search Bar_
 
 ### Filter Feature
 The filter panel is divided into several sections, each allowing users to narrow the Data Set listing according to specific criteria:
-- Data Provider Entity Type:
-    - All: Includes Data Sets from every source.
-    - Public: Data Sets published by government departments or publicly funded entities.
-    - Private: Data Sets contributed by private companies or startups.
-    - Academic Institution: Data Sets originating from universities and research institutes.
-    - Other: Data Sets from NGOs, community groups or any other type of Data Provider Entity.
-- Industry: Applying an industry filter limits results to Data Sets tagged under those sectors. Type to search or select one or more industries— such as Healthcare, Financial Services, Agriculture, Manufacturing, Energy, Education and more.
-- Access Status:
+- Tags: Applying an industry filter limits results to Data Sets tagged under those sectors. Type to search or select one or more industries— such as Biodiversity, Rajasthan, Species, Forest, Microbiology etc.
+- Concepts : 
+- File Format: Choose from formats like CSV, PDF, TXT, Shapefile, image files etc. Selecting multiple types returns any Data Set offering at least one of the chosen formats.
+- Access Permission:
   - Open: Publicly available Data Sets with immediate download access.
   - Restricted: Data Sets requiring approval or elevated permissions to download.
-- File Type: Choose from formats like CSV, PDF, TXT, Shapefile, image files etc. Selecting multiple types returns any Data Set offering at least one of the chosen formats.
-- Data Readiness: Use predefined ranges (e.g., 0–20%, 20–40%, 40–60%, 60–80% and greater than 80%) to filter by data readiness and usability of data set to build models. Higher readiness score indicates more fully documented and clean Data Sets.
-- Last Updated: Restrict results to data Sets updated in last 7 days, last 30 days, last 1 year or within a custom date range.
+
+- Resource Server Name: Name of the resource server data set belongs to like OGC,FILE,NGSI-LD, FILE.
+- Last Updated: Restrict results to data Sets updated in last 7 days, last 30 days, last 1 year.
 
 ![Filter Feature](./img/fig_filter_options.png)
 _Filter Feature_
 
 ### Data Set Card
 Each Data Set card provides a snapshot of key information:
-- **Access Status—**"Open" or "Restricted" badge
-- **Publishing Data Provider Entity**
 - **Title**
+- **Publishing Data Provider Entity**
 - **Short description**
-- **Tags**
-- **Data Readiness score**
-- **File format**
+- **Resource Server Name**
 - **Last updated date**
-- **Action Button**: "View DataSet” to open the full details and download options.
+- **Action Button: “Right Arrow” to open the full details and download options**
 
 ![Data Set Card](./img/fig_data_bank_cards.png)
 _Data Set Card_
@@ -122,9 +115,9 @@ _Set up your dataset_
    - **Organisation Type**: Public, Private, Academic, or Other
    - **File Format**: Format of data bank file which is being uploaded (CSV, TXT, PDF, GeoJSON, Shapefile, etc.).
 2. **Link Related Assets**: Add Associated Data Sets or Add Associated Models to create pre-defined connections between your new Data Set and other platform content.
- 
-![Step 2: Add Tags Example](./img/fig51.png)
-![Adding Metadata Information](img/fig_adding_metadata_information.png)
+
+![Adding Metadata Information-1](img/fig_adding_metadata_information.png)
+![Adding Metadata Information-2](img/fig_adding_metadata_information1.png)
 _Adding metadata information_
 
 ### Step 3: Upload Data Set
