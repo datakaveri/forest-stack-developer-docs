@@ -14,7 +14,6 @@ The footer reinforces the platform’s identity with quick navigation links:
 - **Help & Support:** FAQ, User Manuals
 
 It also includes:
-- The Forest Stack logo with a brief description of the platform’s mission
 - **Social media icons**: X, Facebook, Instagram
 - **Legal links**: Privacy Policy and Terms of Service
 - **Our Partners**: Logos of partner organization
