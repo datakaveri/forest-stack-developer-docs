@@ -11,8 +11,8 @@ The **My Profile** section allows users to manage their personal information, ac
 
 ### <u>User Details</u>
 - Displays basic profile information:
-  - Full Name
-  - Username
+  - First Name
+  - Last Name
   - Email ID
 - Edit these fields by clicking **Edit Profile** (top right) and save with **Save Changes**
 
