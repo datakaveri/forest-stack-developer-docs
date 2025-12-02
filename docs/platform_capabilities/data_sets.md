@@ -63,13 +63,13 @@ _Dataset Card_
 - **Organization Type**: Public or Private
 - **Industry**: The sector classification such as, healthcare, mobility, etc. that indicates the Dataset’s primary domain.
 - **Geo Coverage**: The geographic extent of the data (e.g., “State-level (Rajasthan)”).
-- **Year Range**: The temporal span of the records contained in the data bank (e.g., 2018–2024).
+- **Year Range**: The temporal span of the records contained in the dataset (e.g., 2018–2024).
 - **License**: The legal terms under which the Dataset is made available (e.g., Rajasthan  Open Health Data License v1.0).
 - **Data Provider Entity**: The government department, agency or entity that has the ownership of the published Dataset.
 - **Last Updated**: Date and time when the Dataset was most recently refreshed.
 - **File Format**: The downloadable format(s) provided (e.g., CSV, TXT, PDF).
 - **Upload Frequency**: How often the Dataset is updated (e.g., Quarterly, Monthly, One-time).
-- **Verified By**: The role or individual—typically the Organisation Manager—who reviewed and approved the Data Bank for publication.
+- **Verified By**: The role or individual—typically the Organisation Manager—who reviewed and approved the Dataset for publication.
 
 ![Dataset Details](./img/data_set_details.png)
 _Dataset Details_
@@ -108,10 +108,10 @@ _Set up your dataset_
    - **Resource Server**: Select the resource server from the dropdown.
    - **Geo Coverage**: Geographic extent (e.g., State-level Rajasthan).
    - **Upload Frequency**: How often the data will be updated (Daily, Weekly, Monthly, Annually, One-time).
-   - **Year Range**: The temporal span of the records contained in the data bank (e.g., 2018–2024).
+   - **Year Range**: The temporal span of the records contained in the dataset (e.g., 2018–2024).
    - **Concepts**: Predefined domain categories used to classify your dataset into broader thematic areas for easier browsing.Choose appropriate from the drop down.
    - **Dataset Type**: Choose from catalogued types – structured/semi-structured/unstructured.
-   - **File Format**: Format of data bank file which is being uploaded (CSV, TXT, PDF, GeoJSON, Shapefile, etc.).
+   - **File Format**: Format of dataset file which is being uploaded (CSV, TXT, PDF, GeoJSON, Shapefile, etc.).
    - **Sample Data**: Upload a sample data file.
    - **Attribute Name**: Give the name of the attribute.
    - **Parameter Type**: Choose the type from the drop down (e.g.: ValueDescriptor, Time Series Aggregation, Relationship Value)
@@ -141,12 +141,12 @@ Depending on a Dataset's permission level, the steps to download differ slightly
 
 - **Open Datasets:**
   1. Click the **Download** button on the Dataset details page.
-  2. The entire Data Bank (all files and folders) is packaged into a single ZIP archive and begins downloading immediately
+  2. The entire Dataset (all files and folders) is packaged into a single ZIP archive and begins downloading immediately
 ![Open Datasets](img/fig_download_openDI.png)
 _Downloading Open Datasets_
 
 - **Restricted Datasets:**
-  1. Click the **Request Access** button on the data bank details page
+  1. Click the **Request Access** button on the dataset details page
   2. A request form pops up; add a brief justification for why you need access.
   3. Submit the request—Forest Stack notifies the Dataset's publisher
   4. Once approved, you'll receive an email notification, and a **Download** button appears in the details page.

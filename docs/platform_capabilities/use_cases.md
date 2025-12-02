@@ -2,13 +2,13 @@
 sidebar_position: 4
 ---
 
-# Use cases
+# Use Cases
 
 Use cases are real-world problem statements paired with possible AI-based solutions. Some include working examples built using Forest Stack resources, while others are open challenges shared to inspire new ideas and innovations.
 
 ---
 
-## Use cases Listing Page
+## Use Cases Listing Page
 
 The Use cases listing page provides users with access to a curated collection of AI-driven solution ideas and real-world implementations. It includes the following features:
 ![Use cases listing page](./img/fig_use_cases_listing_page.png)
@@ -45,7 +45,7 @@ The Use cases Detail Page provides an in-depth view of a specific AI-driven solu
 
 ---
 
-## Use case Upload
+## Use Case Upload
 
 ### Step 1: Enter Potential Application Information
 Click on **Start Adding Use Case** and start entering use case information - In this step, users provide a complete overview of the use case, including:

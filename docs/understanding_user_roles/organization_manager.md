@@ -12,10 +12,10 @@ sidebar_position: 4
 Organisation Managers hold administrative control for their organisation’s presence on Forest Stack. They are responsible for:
 - Managing the organisation’s user base (add/remove users, assign roles)
 
-![fig87](./img/fig87.png)
+![fig87](./img/fig88.png)
 _Manage Users Section_
 
-![fig88](./img/fig88.png)
+![fig88](./img/fig87.png)
 _User Requests Section_
 
 - Reviewing and approving asset access requests (asset download requests/asset  publication requests/role upgradation requests)
