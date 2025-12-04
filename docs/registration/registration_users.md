@@ -7,10 +7,10 @@ sidebar_position: 1
 
 ## Steps to Register a User:
 
-**Step 1:** Click **Register** on the Home Page.  
+**Step 1:** Click **Login/Register** on the Home Page.  
 
-![Clicking Register button](images/register_button.png)  
-*Click Register button*
+![Clicking Login/Register button](images/register_button.png)  
+*Click Login/Register button*
 
 **Step 2:** Enter first name, last name and email address.  
 

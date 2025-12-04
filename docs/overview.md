@@ -30,3 +30,8 @@ Users responsible for uploading, annotating, and managing datasets on Forest Sta
 ### Organisation Managers
 
 Departmental leads and project coordinators who oversee data governance, set access policies, and review usage reports. For example, startup founders, AI researchers, project leaders, and department heads.
+
+### Platform Administrators
+
+Users who manage platform-wide operations, including monitoring user activities, validating organisation requests, reviewing asset submissions, and ensuring compliance with Forest Stack’s governance standards.
+Examples include system administrators, platform operators etc.

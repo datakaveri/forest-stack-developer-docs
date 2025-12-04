@@ -1,6 +1,6 @@
 ---
 title: "Adding a Data provider entity"
-sidebar_position: 6
+sidebar_position: 5
 ---
 
 If a user’s Data Provider Entity isn’t yet registered on Forest Stack, the user can submit a request to add it by providing Data Provider Entity details and supporting documents. Only a person authorized by that Data Provider Entity may complete this step, since they will assume the sole **Organization Manager** role. As Organization Manager, the user will have responsibility for adding and managing members, assigning provider roles, and overseeing all assets published under the Data Provider Entity’s name. Once the Data Provider Entity is approved and the user designated as its manager, no additional Organization Manager accounts can be created for that Data Provider Entity.
