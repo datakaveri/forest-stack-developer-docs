@@ -70,12 +70,16 @@ From the user dashboard:
 2. Select **Client Credentials**
 3. Generate a **Client ID** and **Client Secret**
 
+![Get Credentials](images/img.png)  
+*Click on **Get Credentials** to download the credentials*
+
+
 ### Step 2: Request an Authentication Token
 
 Use the client ID and secret to request a token:
 
 ````
-curl --location --request POST "https://<base-url>/iudx/v2/auth/token"
+curl --location --request POST "https://controlplane.forest-stack.digivan.forest.rajasthan.gov.in/iudx/v2/auth/token"
 --header "clientId: <CLIENT_ID>"
 --header "clientSecret: <CLIENT_SECRET>"
 ````
@@ -100,9 +104,7 @@ A valid token must be included in the `Authorization` header for all API request
 Retrieve available datasets with optional filters.
 
 ````
-BASE_URL="https://<your-domain>/iudx/v2"
-
-curl "$BASE_URL/cat/search?sort=name:asc;itemCreatedAt:asc;&page=1&size=10000"
+curl "https://controlplane.forest-stack.digivan.forest.rajasthan.gov.in/iudx/v2/cat/search?sort=name:asc;itemCreatedAt:asc;&page=1&size=10000"
 -H "Authorization: Bearer <YOUR_ACCESS_TOKEN>"
 -H "Content-Type: application/json"
 --data '{
@@ -123,11 +125,9 @@ curl "$BASE_URL/cat/search?sort=name:asc;itemCreatedAt:asc;&page=1&size=10000"
 Fetch detailed metadata for a dataset.
 
 ````
-
-BASE_URL="https://<your-domain>/iudx/v2"
 ITEM_ID="<item-id-here>"
 
-curl "$BASE_URL/cat/item?id=$ITEM_ID"
+curl "https://controlplane.forest-stack.digivan.forest.rajasthan.gov.in/iudx/v2/cat/item?id=$ITEM_ID"
 -H "Authorization: Bearer <YOUR_ACCESS_TOKEN>"
 -H "Accept: application/json"
 ````
@@ -139,9 +139,7 @@ curl "$BASE_URL/cat/item?id=$ITEM_ID"
 Query structured data using search filters.
 
 ````
-BASE_URL="https://<your-domain>/iudx/v2"
-
-curl "$BASE_URL/cat/search?sort=name:asc;itemCreatedAt:asc;&page=1&size=10000"
+curl "https://controlplane.forest-stack.digivan.forest.rajasthan.gov.in/iudx/v2/cat/search?sort=name:asc;itemCreatedAt:asc;&page=1&size=10000"
 -H "Authorization: Bearer <YOUR_ACCESS_TOKEN>"
 -H "Content-Type: application/json"
 --data '{
@@ -160,6 +158,6 @@ curl "$BASE_URL/cat/search?sort=name:asc;itemCreatedAt:asc;&page=1&size=10000"
 }'
 ````
 
-More API endpoint can be found [here](https://staging.controlplane.forestdx.iudx.io/)
+More API endpoint can be found [here](https://controlplane.forest-stack.digivan.forest.rajasthan.gov.in/apis)
 
 ---
