@@ -125,7 +125,7 @@ Fetch detailed metadata for a dataset.
 ````
 
 BASE_URL="https://<your-domain>/iudx/v2"
-ITEM_ID="3c6e7ea7-4884-43b9-8179-71b3db86284b"
+ITEM_ID="<item-id-here>"
 
 curl "$BASE_URL/cat/item?id=$ITEM_ID"
 -H "Authorization: Bearer <YOUR_ACCESS_TOKEN>"
