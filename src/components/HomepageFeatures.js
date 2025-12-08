@@ -33,6 +33,16 @@ const FeatureList = [
       </>
     ),
   },
+      {
+        title: 'Admin Workflow',
+        link:"../../docs/admin_workflows/introduction",
+        Svg: require('../../static/img/user.svg').default,
+        description: (
+          <>
+          Covers administrative controls for managing users, organisations, and assets across the platform.
+          </>
+        ),
+      },
   {
     title: 'Platform Capabilities (Datasets/Models/Usecases)',
     link:"../../docs/platform_capabilities/introduction",
@@ -52,6 +62,17 @@ const FeatureList = [
       </>
     ),
   },
+
+      {
+        title: 'API Documentation',
+        link:"../../docs/api_documentation_dataset_access_overview/introduction",
+        Svg: require('../../static/img/user.svg').default,
+        description: (
+          <>
+          Provides an overview of Forest Stack APIs, authentication flow, dataset access endpoints.
+          </>
+        ),
+      },
   {
     title: 'Accessing Help and Support Services',
     link:"../../docs/accessing_help_support_services/introduction",
@@ -65,7 +86,7 @@ const FeatureList = [
 
 function Feature({Svg, link, title, description}) {
   return (
-    <a className={`${clsx('col col--4')} ${styles.featureCard}`} href={link}>
+    <a className={`${clsx('col col--3')} ${styles.featureCard}`} href={link}>
       <div className={styles.cardBox}>
         <div className="text--center">
           <Svg className={styles.featureSvg} alt={title} />
