@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Navigating the Home Page',
-    link:"../../docs/navigating_home_page/overview",
+    link:"../../docs/navigating_home_page/introduction",
     Svg: require('../../static/img/navigate.svg').default,
     description: (
       <>
@@ -25,7 +25,7 @@ const FeatureList = [
   },
   {
     title: 'Login/Registration for Users, Joining Organisations',
-    link:"../../docs/registration/registration_users",
+    link:"../../docs/registration/introduction",
     Svg: require('../../static/img/login.svg').default,
     description: (
       <>
@@ -35,7 +35,7 @@ const FeatureList = [
   },
   {
     title: 'Platform Capabilities (Datasets/Models/Usecases)',
-    link:"../../docs/platform_capabilities/platform_capabilities",
+    link:"../../docs/platform_capabilities/introduction",
     Svg: require('../../static/img/capability.svg').default,
     description: (
       <>
@@ -44,7 +44,7 @@ const FeatureList = [
   },
   {
     title: 'Understanding User Roles',
-    link:"../../docs/understanding_user_roles/understanding_user_roles",
+    link:"../../docs/understanding_user_roles/introduction",
     Svg: require('../../static/img/user.svg').default,
     description: (
       <>
@@ -54,7 +54,7 @@ const FeatureList = [
   },
   {
     title: 'Accessing Help and Support Services',
-    link:"../../docs/accessing_help_support_services/faq",
+    link:"../../docs/accessing_help_support_services/introduction",
     Svg: require('../../static/img/help-user.svg').default,
     description: (
       <>
