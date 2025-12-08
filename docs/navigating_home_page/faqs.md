@@ -1,7 +1,7 @@
 ---
 title: "FAQs"
 hide_title: true
-sidebar_position: 8
+sidebar_position: 7
 ---
 
 ## Frequently Asked Questions

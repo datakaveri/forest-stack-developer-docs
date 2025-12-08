@@ -1,7 +1,7 @@
 ---
 title: "Footer"
 hide_title: true
-sidebar_position: 9
+sidebar_position: 8
 ---
 
 ## Footer

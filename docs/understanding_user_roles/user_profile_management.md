@@ -9,20 +9,20 @@ sidebar_position: 6
 
 The **My Profile** section allows users to manage their personal information, account settings, and platform consents. This screen helps users stay in control of their Forest Stack identity and preferences. Key sections include:
 
-### <u>User Details</u>
+### User Details
 - Displays basic profile information:
   - First Name
   - Last Name
   - Email ID
 - Edit these fields by clicking **Edit Profile** (top right) and save with **Save Changes**
 
-### <u>Account Settings</u>
+### Account Settings
 - Get client credentials for integrating Forest Stack datasets programmatically
 - Change Password for account security
 - Delete Account to permanently remove the user from Forest Stack.
   - Organisation manager, users have an option to transfer ownership of their uploaded assets before deleting their account.
 
-### <u>Consent Management</u>
+### Consent Management
 - Tracks user agreements for:
   - **Privacy Policy Consent**: View or revoke consent for personal data processing
   - **Terms of Service Consent**: View or revoke agreement to the platform's terms

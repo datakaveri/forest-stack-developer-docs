@@ -1,6 +1,6 @@
 ---
 title: "Joining Organisation"
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 To publish Datasets, Models or Use cases on Forest Stack, users must Join a Data Provider Entity. By affiliating with an approved Data Provider Entity—such as a government department, startup, research institute or private enterprise—users can gain the provider role and associated permissions to upload and manage assets under that Data Provider Entity’s governance. This ensures accountability for all published content.

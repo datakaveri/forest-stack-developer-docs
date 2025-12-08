@@ -1,6 +1,6 @@
 ---
 title: "Registration process for users"
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # Registration Process for Users
