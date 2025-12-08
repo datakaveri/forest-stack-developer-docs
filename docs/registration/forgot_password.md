@@ -1,6 +1,6 @@
 ---
 title: "Forgot Password"
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 **Step 1:** Click **Forgot Password** on the Login/Register page.  

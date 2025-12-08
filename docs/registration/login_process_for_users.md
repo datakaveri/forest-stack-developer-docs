@@ -1,6 +1,6 @@
 ---
 title: "Login process for Users"
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 **Step 1:** Click **Login/Register** on the Home Page.  

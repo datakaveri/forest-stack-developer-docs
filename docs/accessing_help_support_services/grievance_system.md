@@ -1,9 +1,9 @@
 ---
-title: "Help and Support"
-sidebar_position: 2
+title: "Grievance Management"
+sidebar_position: 3
 ---
 
-# Help and Support
+# Grievance Management
 
 ## Overview
 
